@@ -59,8 +59,7 @@ The dataset includes key variables to understand the market performance of each 
 
 ## 📚 Data Sources
 
-- [Sensor Tower (2024) - Top 5 Carpooling and Ridesharing Apps Performance](https://sensortower.com/blog/2024-q3-unified-top-5-carpooling%20and%20ridesharin)
-- [Sensor Tower (2024) - Navigating LatAm’s Ride-Hailing Landscape](https://sensortower.com/blog/navigating-lat-ams-ride-hailing-landscape-growth-co)
+- [Sensor Tower (2024) - Top 5 Carpooling and Ridesharing Apps Performance]([https://sensortower.com/blog/2024-q3-unified-top-5-carpooling%20and%20ridesharin](https://sensortower.com/blog/2024-q3-unified-top-5-carpooling%20and%20ridesharing%20apps-units-mx-63e3708de1714cfff1489d09))
 - [Statista (2025) - Shared Mobility Statistics and Facts](https://www.news.market.us/shared-mobility-statistics)
 
 ---
